@@ -1,1 +1,1 @@
-# slider
+# This is first slider library from elzeroweb school slider V1.0
